@@ -42,6 +42,7 @@ public class Interface6  extends Huawai implements Apple,Android
       sc.iOs();
       sc.Os();
 
+
         Apple.os();
         Android.os();
         Huawai.os();
